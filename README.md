@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letruongngochai&label=Profile%20views&color=0e75b6&style=flat" alt="letruongngochai" /> </p>
 
 
-- 🔭 I’m currently working on [https://www.uit.edu.vn](https://www.uit.edu.vn)
+- 🔭 I’m currently working on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Mobile Development, Software Engineer**
 
-- 👨‍💻 My research group [https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws](https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws)
+- 👨‍💻 My research group [UIT-Together Research Group](https://uit-together.github.io)
 
 - 📫 How to reach me **iamngochai.7112002@gmail.com (Personal email) or 20522087@gm.uit.edu.vn (Business email)**
 
