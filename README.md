@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Hai</h1>
 <h3 align="center">Undergraduate student at University of Information Technology, VNU-HCM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=letruongngochai&label=Profile%20views&color=0e75b6&style=flat" alt="letruongngochai" /> </p>
-
 
 - 🔭 I’m currently working on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn)
 
@@ -12,7 +10,7 @@
 
 - 📫 How to reach me **iamngochai.7112002@gmail.com (Personal email) or 20522087@gm.uit.edu.vn (Business email)**
 
-- ⚡ I think I am funny :)
+- ⚡ I think I am funny :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
