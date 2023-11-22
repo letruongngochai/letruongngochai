@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngoc Hai</h1>
-<h3 align="center">Undergraduate student at University of Information Technology, VNU-HCM</h3>
+<h3 align="center">Graduated student at University of Information Technology, VNU-HCM</h3>
 
 
 - 🔭 I’m currently working on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn)
