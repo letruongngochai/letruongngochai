@@ -8,7 +8,7 @@
 
 - 👨‍💻 My research group [UIT-Together Research Group](https://uit-together.github.io)
 
-- 📫 How to reach me **iamngochai.7112002@gmail.com (Personal email) or 20522087@gm.uit.edu.vn (Business email)**
+- 📫 How to reach me **iamngochai.7112002@gmail.com (Personal email) or 20520481@gm.uit.edu.vn (Business email)**
 
 - ⚡ I think I am funny :D
 
